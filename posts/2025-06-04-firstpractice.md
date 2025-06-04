@@ -1,5 +1,5 @@
 ---
-title: "First Practice Blog Post"
+title: "firstpractice"
 date: 2025-06-04
 ---
 # Draft
